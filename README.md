@@ -56,8 +56,5 @@ To run the dashboard and view the results, execute:
 python app.py
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, please reach out to [atmustapha31@gmail.com](mailto:atmustapha31@gmail.com).
